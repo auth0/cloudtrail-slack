@@ -2,7 +2,7 @@
   "name": "cloudtrail-slack",
   "version": "1.0.0",
   "description": "",
-  "bin": "index.js",
+  "bin": "bin/cloudtrail-slack",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
